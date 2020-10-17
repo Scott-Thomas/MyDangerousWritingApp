@@ -3,7 +3,7 @@
 ### My version of the Most Dangerous Writing App
 
 * Extended the timeout to 10 seconds because sometimes you need to, you know, scratch your nose or something.
-* Removed the call to openBrowser as I only use thge app on its host machine about 50% of the time.
+* Removed the call to openBrowser as I only use the app on its host machine about 50% of the time.
 
 ### Who made this?
 
