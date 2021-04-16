@@ -110,7 +110,7 @@ WriteButton.defaultProps = {
   hidePanel: false,
   limits: {
     minutes: [3, 5, 10, 15, 20, 30, 60],
-    words: [100, 500, 1000, 1667, 1750]
-    /* words: [150, 250, 500, 750, 1667] */
+    /* words: [100, 500, 1000, 1667, 1750]
+    words: [150, 250, 500, 750, 1667] */
   }
 }
